@@ -1,0 +1,30 @@
+body{
+  background-color: purple;
+}
+h1{
+  color: white;
+  font-size: 50px;
+  margin-top: 240px;
+  margin-left: 580px;
+
+
+}
+input{
+  font-size: 20px;
+  height:30px;
+  width:350px;
+  text-align: center;
+  /* margin-top: 8px; */
+  margin-left: 510px;
+}
+button{
+  font-size: 25px;
+  height:35px;
+  width:180px;
+  margin-top: 15px;
+  margin-left: 510px;
+  gap:25px;
+
+}
+
+
